@@ -1,0 +1,4 @@
+/* Animasi berputar */
+.rotate-img {
+    animation: spin 10s linear infinite;
+}
