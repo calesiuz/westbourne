@@ -603,7 +603,7 @@ button.swiper-pagination-bullet {
 .swiper-container-flip .swiper-slide .swiper-slide {
     pointer-events: none
 }
-
+ 
 .swiper-container-flip .swiper-slide-active,
 .swiper-container-flip .swiper-slide-active .swiper-slide-active {
     pointer-events: auto
